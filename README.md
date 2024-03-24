@@ -1,1 +1,1 @@
-https://GITHUB-Dr0zdd.github.io/rsschool-cv/
+https://Dr0zdd.github.io/rsschool-cv/
