@@ -22,3 +22,19 @@ within a wide range of employment areas.
 * C++
 * GItHub/Git
 ### Code Example
+
+>`function fibonacci(n) {
+if (n <= 1) {
+return n;
+} else {
+return fibonacci(n - 1) + fibonacci(n - 2);
+}
+}`
+
+### Experience
+
+### Education
+* UNIVERSITY : *Belarusian State University of Informatics and Radioelectronics*
+
+### English
+B1
