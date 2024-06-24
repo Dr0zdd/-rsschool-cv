@@ -13,3 +13,12 @@ very willing to learn and develop
 new skills.I am reliable and dependable
 and often seek new responsibilities
 within a wide range of employment areas.
+
+### Skils
+* HTML
+* CSS
+* JavaScript
+* Java
+* C++
+* GItHub/Git
+### Code Example
